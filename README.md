@@ -12,6 +12,8 @@ Most of the projects here started as a uni assignment or something I wanted to u
 
 **[GameVerse](https://github.com/holialli/GameVerse)**: a MERN gaming platform I use as my DevSecOps testbed. Nothing deploys until secret scanning, dependency and container scans pass, and then OWASP ZAP runs against the live build. It ran on EC2 behind Cloudflare for six months and is now on Render + Vercel. Live at [game-verse.tech](https://game-verse.tech).
 
+**[aws-teardown](https://github.com/holialli/aws-teardown)**: finds whatever an AWS tutorial left running, across every region, with a monthly cost for each and the commands to delete them in the right order. Take a snapshot before the tutorial and it shows only what the tutorial created. Read-only.
+
 **[SOC Lab](https://github.com/holialli/soc-lab-suricata-elk)**: Suricata + ELK lab with 30 rules I wrote covering everything from recon to lateral movement, tested by attacking it from Kali.
 
 #### Tools I reach for
