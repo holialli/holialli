@@ -16,6 +16,10 @@ Most of the projects here started as a uni assignment or something I wanted to u
 
 **[SOC Lab](https://github.com/holialli/soc-lab-suricata-elk)**: Suricata + ELK lab with 30 rules I wrote covering everything from recon to lateral movement, tested by attacking it from Kali.
 
+#### Writing
+
+[My Suricata SSH brute-force rule worked for the wrong reason](https://holialli.github.io/posts/suricata-ssh-brute-force.html): what a network IDS can see of SSH, and counting connection attempts instead of packets. More at [holialli.github.io](https://holialli.github.io).
+
 #### Tools I reach for
 
 Python, JavaScript/Node, React · AWS, Terraform, Docker, GitHub Actions, Jenkins · Suricata, ELK, The Sleuth Kit
