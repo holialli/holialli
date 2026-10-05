@@ -18,7 +18,7 @@ Most of the projects here started as a uni assignment or something I wanted to u
 
 #### Writing
 
-[My Suricata SSH brute-force rule worked for the wrong reason](https://holialli.github.io/posts/suricata-ssh-brute-force.html): what a network IDS can see of SSH, and counting connection attempts instead of packets. More at [holialli.github.io](https://holialli.github.io).
+[My Suricata SSH brute-force rule worked for the wrong reason](https://holialli.github.io/writing/suricata-ssh-brute-force/): what a network IDS can see of SSH, and counting connection attempts instead of packets. More at [holialli.github.io](https://holialli.github.io).
 
 #### Tools I reach for
 
